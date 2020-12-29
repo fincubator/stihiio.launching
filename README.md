@@ -159,3 +159,4 @@ Open link with browser `http://<your_ip_address>`
 Example: http://localhost
 ```
 
+![front](./img/stihi-front.png)
