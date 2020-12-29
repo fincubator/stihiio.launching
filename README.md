@@ -1,5 +1,9 @@
 # How to launch Stihi
 
+## Requirements
+
+Cyberway node should be installed. [https://github.com/fincubator/cyberway.launch/tree/master/docs](See documentation).
+
 ## Stihi-backend (with remote cyberway node)
 
 Clone repository
