@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Cyberway node should be installed. [https://github.com/fincubator/cyberway.launch/tree/master/docs](See documentation).
+Cyberway node should be installed. [See documentation](https://github.com/fincubator/cyberway.launch/tree/master/docs).
 
 ## Stihi-backend (with remote cyberway node)
 
