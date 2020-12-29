@@ -2,7 +2,25 @@
 
 ## Requirements
 
-Cyberway node should be installed. [See documentation](https://github.com/fincubator/cyberway.launch/tree/master/docs).
+- Cyberway node should be installed. [See documentation](https://github.com/fincubator/cyberway.launch/tree/master/docs)
+- Debian 10
+- Docker 
+- Docker compose
+
+## Install system dependencies 
+
+```
+apt update && apt install curl git wget jq
+```
+
+
+Ensure that docker and docker-compose have installed.
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sh ./get-docker.sh
+curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+```
 
 ## Stihi-backend (with remote cyberway node)
 
